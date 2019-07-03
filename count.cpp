@@ -1,5 +1,6 @@
 // count.cpp
 //  Created by Brennan Romash on 9/29/16.
+// this program displays columns of squared and cubed numbers from 1-10. 
 
 
 
